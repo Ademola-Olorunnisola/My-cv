@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Ademola Olorunnisola</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Ademola Olorunnisola</h1>
+            <p>PhD Student | University of Nevada, Reno</p>
+        </header>
+        
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>PhD in Mathematics, 2024 - Present, University of Nevada, Reno</li>
+                <li>MSc in Mathematics, 2021 - 2022, Kwara State University, Nigeria</li>
+                <li>BSc in Mathematics, 2014 - 2020, Kwara State University, Nigeria</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Computational Methods</li>
+                <li>Fractional Order Diffusion Equations</li>
+                <li>Image Processing</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Volunteer Experience</h2>
+            <ul>
+                <li>2025 - AMTE Conference, Reno, Nevada</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Main Courses Taken</h2>
+            <ul>
+                <li>Numerical Analysis and Approximation</li>
+                <li>Applied Functional Analysis</li>
+                <li>Abstract Real Analysis</li>
+                <li>Seminar in Teaching Mathematics and Statistics</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Teaching Experience</h2>
+            <ul>
+                <li>Calculus I - Fall 2024</li>
+                <li>Introductory Calculus for Business and Social Sciences - Spring 2025</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Publications</h2>
+            <ul>
+                <li><a href="https://journal.nsps.org.ng/index.php/jnsps/article/view/1368">Approximate Solution of Space Fractional Order Diffusion Equations by Gegenbauer Collocation and Compact Finite Difference Scheme</a></li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Skills & Interests</h2>
+            <h3>Technical Skills</h3>
+            <ul>
+                <li>Microsoft Word</li>
+                <li>MATLAB</li>
+                <li>LaTeX</li>
+                <li>Python</li>
+            </ul>
+            
+            <h3>Personal Interests</h3>
+            <ul>
+                <li>Soccer</li>
+                <li>Music Production</li>
+            </ul>
+        </section>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
